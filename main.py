@@ -1,8 +1,6 @@
 import argparse
-import cv2
 import json
 import os
-from PIL import Image
 import time
 
 from functions import (
