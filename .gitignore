@@ -1,7 +1,8 @@
 .DS_Store
 .idea
 .gitignore~
-cropped_images
+__pycache__/
+old_files/*
 *.json
 *.png
 *.jpeg
